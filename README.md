@@ -1,2 +1,2 @@
-# Armut.com_Sistem_Analiz
+# Armut.com Sistem Analizi
 Armut.com Sistem Analiz
